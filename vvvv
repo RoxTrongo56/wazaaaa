@@ -1,0 +1,5 @@
+while true # start an infinite 1oop
+do
+echo "v" # prit "Hello
+sleep 1 # wait for 1 second
+done # end the loop
